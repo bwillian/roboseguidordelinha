@@ -32,7 +32,7 @@ Softwares e drivers disponibilizados para o funcionamento do circuito.
 - Baixar [Arduino IDE](https://www.arduino.cc/en/main/software)
 - Baixar [Driver FTDI](https://www.ftdichip.com/Drivers/VCP.htm)
 
-# PCB
+# Layout PCB
 
 ![CIRCUIT](https://raw.githubusercontent.com/sdefx/roboseguidordelinha/master/Rob%C3%B4%20seguidor%20de%20linha/PCB%20Frente.PNG)
 ![CIRCUIT](https://raw.githubusercontent.com/sdefx/roboseguidordelinha/master/Rob%C3%B4%20seguidor%20de%20linha/PCB%20Verso.PNG)
