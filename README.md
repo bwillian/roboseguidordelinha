@@ -27,7 +27,7 @@ Para a gravação é necessário uma placa RC FTDI. Na interface de programaçã
 
 # Downloads
 
-Softwares e drivers disponibilizados para o funcionamento do circuito.
+Software e driver disponibilizados para o funcionamento do circuito.
 
 - Baixar [Arduino IDE](https://www.arduino.cc/en/main/software)
 - Baixar [Driver FTDI](https://www.ftdichip.com/Drivers/VCP.htm)
