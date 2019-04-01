@@ -23,7 +23,7 @@ O circuito foi inicialmente desenvolvido para estudos e testes de bancada. Está
 
 ### Observação
 
-Para gravação é necessário uma placa RC FTDI. Na interface de programação (Arduino IDE), selecionar o Arduino Pro or Pro mini.
+Para gravação é necessário uma placa RC FTDI. Na interface de programação (Arduino IDE), selecionar o Arduino Pro mini.
 
 # Downloads
 
