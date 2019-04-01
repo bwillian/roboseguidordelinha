@@ -23,7 +23,7 @@ O circuito foi inicialmente desenvolvido para estudos e testes de bancada. Está
 
 ### Observação
 
-Para gravação é necessário uma placa RC FTDI. Na interface de programação (Arduino IDE), selecionar o arduino Pro or Pro mini.
+Para gravação é necessário uma placa RC FTDI. Na interface de programação (Arduino IDE), selecionar o Arduino Pro or Pro mini.
 
 # Downloads
 
@@ -32,4 +32,4 @@ Softwares e drivers disponibilizados para o funcionamento do circuito
 - Baixar [Arduino IDE](https://www.arduino.cc/en/main/software)
 - Baixar [Driver FTDI](https://www.ftdichip.com/Drivers/VCP.htm)
 
-![CIRCUIT](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)
+![CIRCUIT](https://raw.githubusercontent.com/sdefx/roboseguidordelinha/master/Rob%C3%B4%20seguidor%20de%20linha/PCB%20Frente.PNG)
